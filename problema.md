@@ -17,8 +17,6 @@ Algunos ejemplos de como podrían ser los reportes de calidad del datos son los 
 ![image](https://user-images.githubusercontent.com/105241620/174602029-3c600b4a-1067-4b7d-a376-b0e0bd140b5d.png)<br>
 ![image](https://user-images.githubusercontent.com/105241620/174602143-cc30a557-110f-487a-8272-f7ad94dcbe27.png)<br>
 ![image](https://user-images.githubusercontent.com/105241620/174602248-37db7f80-8e95-4c24-91c8-55081284bc20.png)<br>
-![image](https://user-images.githubusercontent.com/105241620/174602278-b162f15d-e626-4dae-91ee-41224f4173f8.png)<br>
-![image](https://user-images.githubusercontent.com/105241620/174602296-a7943be5-cd11-44e2-826e-a33563395a89.png)<br>
 
 
 
